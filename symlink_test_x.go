@@ -1,4 +1,4 @@
-//go:build windows || plan9 || netbsd || aix || illumos || solaris || js
+//go:build windows || plan9 || netbsd || aix || illumos || solaris || js || wasip1
 
 package copy
 
